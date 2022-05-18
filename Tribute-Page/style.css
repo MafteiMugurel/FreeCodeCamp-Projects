@@ -1,0 +1,57 @@
+.title {
+  font-family: serif;
+  font-size: 8rem;
+  color: whitesmoke;
+  opacity: 0.9;
+}
+
+.header {
+  text-align: -webkit-center;
+}
+
+.tribute-info {
+  margin: 60px auto 90px auto;
+  max-width: 70vw;
+  font-size: 1.2rem;
+}
+
+li {
+  margin-bottom: 13px;
+}
+
+.img-caption {
+  margin: 10vh;
+  font-family: serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.external-link {
+  margin: 15px auto;
+  display: flex;
+  justify-content: center;
+  max-width: 60vw;
+}
+
+body {
+  margin: 0;
+  background-color: whitesmoke;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("image1.jpg");
+
+  /* Full height */
+  height: 80vh;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  width: 100%;
+  flex-flow: column;
+  justify-content: center;
+}
