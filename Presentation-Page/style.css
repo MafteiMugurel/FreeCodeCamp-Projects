@@ -1,0 +1,143 @@
+a {
+  color: black;
+}
+
+.image {
+  position: relative;
+  text-align: center;
+}
+
+.number {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  background-color: orange;
+  color: black;
+  font-size: 20px;
+  border-radius: 0px 0px 0px 5px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 15px 20px;
+  text-decoration: none;
+}
+
+#demo a {
+  color: white;
+}
+
+.space,
+.arrows {
+  display: flex;
+  padding-bottom: 20px;
+  justify-content: space-between;
+}
+
+.icons {
+  position: fixed;
+  top: 50%;
+  right: 0px;
+  transform: translateY(-50%);
+}
+
+.icons a {
+  display: block;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  background-color: black;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+#demo {
+  display: flex;
+}
+
+.numbers {
+  float: right;
+  border-radius: 5px;
+  border: 2px solid black;
+  padding: 5px;
+}
+.ceva:hover {
+  box-shadow: 1px 1px 2px 2px orange; 
+  color: green;
+} 
+p.text01 {
+  font-size: 12px;
+  font-family: 'Gill Sans', sans-serif;
+  text-indent: 15px;
+}
+p.text02 {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', sans-serif;
+  color: green;
+  text-shadow: 1px 1px 3px black;
+}
+
+p.ceva01 {
+  text-align: center;
+  color: orangered;
+  font-size: 18px;
+  text-shadow: 1px 1px 3px black;
+  font-family: 'Franklin Gothic Medium';
+  text-indent: 40px;
+}
+p.ceva02 {
+  text-align: center;
+  color: gray;
+  font-size: 18px;
+  text-shadow: 1px 1px 3px black;
+  font-family: 'Franklin Gothic Medium';
+  text-indent: 40px;
+}
+p.ceva03 {
+  text-align: center;
+  color: darkred;
+  font-size: 18px;
+  text-shadow: 1px 1px 3px black;
+  font-family: 'Franklin Gothic Medium';
+  text-indent: 40px;
+}
+p.ceva04 {
+  text-align: center;
+  color: skyblue;
+  font-size: 18px;
+  text-shadow: 1px 1px 3px black;
+  font-family: 'Franklin Gothic Medium';
+  text-indent: 40px;
+}
+p.ceva05 {
+  text-align: center;
+  color: black;
+  font-size: 18px;
+  text-shadow: 1px 1px 3px black;
+  font-family: 'Franklin Gothic Medium';
+  text-indent: 40px;
+}
+p.ceva06 {
+  text-align: center;
+  color: green;
+  font-size: 18px;
+  text-shadow: 1px 1px 3px black;
+  font-family: 'Franklin Gothic Medium';
+  text-indent: 40px;
+}
+.container{
+  background-color: whitesmoke;
+}
