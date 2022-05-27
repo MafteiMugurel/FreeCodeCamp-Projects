@@ -3,8 +3,8 @@
 ## Tribute-Page
 ![Tribute-Page](Tribute-Page/demo.png)
 
-## Tehnical-Documentation
-![Tehnical-Documentation](Tehnical-Documentation/demo.png)
+## Tehcnical-Documentation
+![Technical-Documentation](Technical-Documentation/demo.png)
 
 ## Survey-Form
 ![Survey-Form](Survey-Form/demo.png)
