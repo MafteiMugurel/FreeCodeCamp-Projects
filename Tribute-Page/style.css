@@ -1,0 +1,53 @@
+header {
+  text-align: center;
+}
+.line-flex {
+  display: flex;
+  align-items: center;
+}
+.line-flex p {
+  display: inline-block;
+  white-space: nowrap;
+  padding: 0 1vw;
+}
+.line-flex .line {
+  width: 100%;
+  height: 0;
+  border: 1px solid black;
+  margin: 3px;
+  display: inline-block;
+}
+.image {
+text-align: center;
+}
+.image img {
+  margin: auto;
+    width: -webkit-fill-available;
+}
+body {
+  background-color: aquamarine;
+  padding: 0 20vw;
+}
+.banner {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row;
+}
+.container {
+  display: flex;
+  flex-flow: row;
+}
+.content {
+  width: 27%;
+  padding: 0 20px 0 20px;
+}
+.content-image {
+  width: 19%;
+  padding: 0 20px 0 20px;
+}
+.image-article {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
