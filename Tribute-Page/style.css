@@ -1,3 +1,4 @@
+
 header {
   text-align: center;
 }
@@ -17,22 +18,34 @@ header {
   margin: 3px;
   display: inline-block;
 }
-.image {
-text-align: center;
-}
+
 .image img {
   margin: auto;
-    width: -webkit-fill-available;
-}
-body {
-  background-color: aquamarine;
-  padding: 0 20vw;
+  text-align: center;
+  width: -webkit-fill-available;
 }
 .banner {
+  text-align: center;
   display: flex;
   justify-content: space-between;
   flex-flow: row;
+  
 }
+.banner .banner-list {
+  align-self: center;
+  flex: 1 1 60%;
+  font-size: 20px;
+}
+.banner .banner-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  background-color: violet;
+  padding: 0 15vw;
+}
+
 .container {
   display: flex;
   flex-flow: row;
