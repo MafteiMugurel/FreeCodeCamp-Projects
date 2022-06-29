@@ -1,16 +1,27 @@
+body {
+  background-color: white;
+  padding: 0 2vw;
+}
 
 header {
   text-align: center;
 }
+header h1 {
+  margin-block-start: 1.1em;
+  margin-block-end: 0;
+}
+
 .line-flex {
   display: flex;
   align-items: center;
 }
+
 .line-flex p {
   display: inline-block;
   white-space: nowrap;
   padding: 0 1vw;
 }
+
 .line-flex .line {
   width: 100%;
   height: 0;
@@ -24,43 +35,63 @@ header {
   text-align: center;
   width: -webkit-fill-available;
 }
+
 .banner {
   text-align: center;
   display: flex;
   justify-content: space-between;
   flex-flow: row;
-  
+  margin: 2vh 0;
 }
+
 .banner .banner-list {
   align-self: center;
   flex: 1 1 60%;
-  font-size: 20px;
+  margin-right: 2vw;
+}
+.banner .banner-list div {
+  border-top: 1px solid black;
+}
+.banner .banner-list div:first-of-type {
+  font-size: 4.5vw;
+}
+.banner .banner-list div:nth-of-type(2) {
+  font-size: 5.5vw;
+}
+.banner .banner-list div:nth-of-type(3) {
+  font-size: 4vw;
+}
+.banner .banner-list div:last-of-type {
+  border-bottom: 1px solid black;
+  font-size: 8vw;
 }
 .banner .banner-image img {
   max-width: 100%;
   height: auto;
 }
 
-body {
-  background-color: violet;
-  padding: 0 15vw;
-}
-
 .container {
   display: flex;
   flex-flow: row;
 }
-.content {
-  width: 27%;
-  padding: 0 20px 0 20px;
+.container .content:not(.content:nth-of-type(2)){
+  text-align: justify;
 }
-.content-image {
-  width: 19%;
-  padding: 0 20px 0 20px;
+.container .content {
+  flex: 1 1 25%;
+  padding: 0 2vw 0 2vw;
 }
+.container .content:nth-of-type(2) {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  font-weight: bold;
+  font-size: 2vw;
+  flex: 1 1 10%;
+}
+
 .image-article {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  width: 100%;
 }
