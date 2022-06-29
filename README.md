@@ -1,25 +1,25 @@
 Projects made by following the courses from [FreeCodeCamp](https://www.freecodecamp.org)
 
-Check my progress [HERE](https://www.freecodecamp.org/madalinaeleonorag)
+Check my progress [HERE](https://www.freecodecamp.org/mugurel100)
 
 This includes:
 
-- Responsive Web Design Certification (300 hours) ✔️
-  - Basic HTML and HTML5 🗸
-  - Basic CSS 🗸
-  - Applied Visual Design 🗸
-  - Applied Accessibility 🗸
-  - Responsive Web Design Principles 🗸
-  - CSS Flexbox 🗸
-  - CSS Grid 🗸
-- JavaScript Algorithms and Data Structures Certification (300 hours) ✔️
-  - Basic JavaScript 🗸
-  - ES6 🗸
+- Responsive Web Design Certification (300 hours) 
+  - Basic HTML and HTML5 ✔️
+  - Basic CSS ✔️
+  - Applied Visual Design 
+  - Applied Accessibility 
+  - Responsive Web Design Principles 
+  - CSS Flexbox 
+  - CSS Grid 
+- JavaScript Algorithms and Data Structures Certification (300 hours) 
+  - Basic JavaScript 
+  - ES6 
   - Regular Expressions
-  - Debugging 🗸
-  - Basic Data Structures 🗸
+  - Debugging 
+  - Basic Data Structures 
   - Basic Algorithm Scripting
-  - Object Oriented Programming 🗸
+  - Object Oriented Programming 
   - Functional Programming
   - Intermediate Algorithm Scripting
 - Front End Development Libraries Certification (300 hours)
