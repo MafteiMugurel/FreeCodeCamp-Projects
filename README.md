@@ -62,9 +62,9 @@ This includes:
 ![''](./certifications/Responsive-Web-Design-Certification.png)
 
 - Tribute page<br>
-  ![''](./Responsive-Web-Design-Certification/Tribute-Page/demo.png)
+  ![''](./Responsive-Web-Design-Certification/demo.png)
 - Technical Documentation<br>
-  ![''](./Responsive-Web-Design-Certification/Technical-Documentation/demo-2.png)
+  ![''](./Responsive-Web-Design-Certification/demo-2.png)
 - Survey Form<br>
   ![''](./Responsive-Web-Design-Certification/Survey-Form/demo.png)
 - Asus Product Landing Page<br>
