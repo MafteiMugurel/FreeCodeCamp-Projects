@@ -1,77 +1,29 @@
+:root {
+  --blue: #252142;
+  --orange: #f0a202;
+  --light-blue: #2f97c1;
+  --white: #f7ffff;
+  --text-color: #76709e;
+}
 body {
-    display: flex;
-    flex-flow: row;
-    margin: 0px;
-    color: #070707;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  margin: 0;
+  background-color: var(--blue);
+  color: var(--text-color);
 }
-
-nav {
-    display: block;
+.content {
+  display: flex;
+  flex-flow: row;
 }
-
-#navbar {
-
-    top: 0px;
-    left: 0px;
-    min-width: 300px;
-    border-right: solid;
-    height: 100vh;
-
+.content-title {
+  color: var(--light-blue);
+  text-align: center;
 }
-
-#main-doc {
-    overflow: scroll;
-    background: #F5F5F5;
-    height: 100vh;
-    padding-left: 25px;
+.content-subtitle {
+  color: var(--light-blue);
 }
-
-header {
-    text-align: center;
-    font-size: 1.5em;
-    margin: 10px;
-    max-width: 300px;
-    font-weight: bolder;
+.left-content,
+.right-content {
 }
-
-#navbar-ul {
-    border: 1px solid;
-    height: 150px;
-    padding: 20px 40px;
-
+.content-tags {
+  color: var(--orange);
 }
-
-#navbar li {
-    list-style: none;
-
-
-}
-
-#navbar a {
-    display: block;
-    padding: 20px 30px;
-    text-decoration: none;
-
-}
-
-.main-section {
-    padding: 20px;
-
-}
-
-ul {
-    padding-left: 0;
-
-}
-
-#navbar a:active {
-    background: #F5F5F5;
-    color:#070707;
-}
-
-@media only screen and (max-width: 600px) {
-    body {
-      background-color: #F5F5F5;
-    }
-  }
