@@ -4,22 +4,22 @@ Check my progress [HERE](https://www.freecodecamp.org/mugurel100)
 
 This includes:
 
-- Responsive Web Design Certification (300 hours) 
+- Responsive Web Design Certification (300 hours)
   - Basic HTML and HTML5 ✔️
   - Basic CSS ✔️
-  - Applied Visual Design 
-  - Applied Accessibility 
-  - Responsive Web Design Principles 
-  - CSS Flexbox 
-  - CSS Grid 
-- JavaScript Algorithms and Data Structures Certification (300 hours) 
-  - Basic JavaScript 
-  - ES6 
+  - Applied Visual Design
+  - Applied Accessibility
+  - Responsive Web Design Principles
+  - CSS Flexbox
+  - CSS Grid
+- JavaScript Algorithms and Data Structures Certification (300 hours)
+  - Basic JavaScript
+  - ES6
   - Regular Expressions
-  - Debugging 
-  - Basic Data Structures 
+  - Debugging
+  - Basic Data Structures
   - Basic Algorithm Scripting
-  - Object Oriented Programming 
+  - Object Oriented Programming
   - Functional Programming
   - Intermediate Algorithm Scripting
 - Front End Development Libraries Certification (300 hours)
@@ -64,17 +64,17 @@ This includes:
 - Tribute page<br>
   ![''](./Responsive-Web-Design-Certification/Tribute-Page/demo.png)
 - Technical Documentation<br>
-  ![''](./Responsive-Web-Design-Certification/Technical-Documentation/demo.png)
+  ![''](./Responsive-Web-Design-Certification/Technical-Documentation/demo-2.png)
 - Survey Form<br>
   ![''](./Responsive-Web-Design-Certification/Survey-Form/demo.png)
 - Asus Product Landing Page<br>
-  ![''](./Responsive-Web-Design-Certification/Asus-Product-Landing-Page/demoSS.png) 
+  ![''](./Responsive-Web-Design-Certification/Asus-Product-Landing-Page/demoSS.png)
 - Olive Product Page<br>
   ![''](./Responsive-Web-Design-Certification/Olive-Product-Page/demo.png)
 - Dodge Cars Presentation Page<br>
   ![''](./Responsive-Web-Design-Certification/Dodge-Cars-Presentation-Page/demo.png)
 - Personal Portfolio Webpage<br>
-  ![''](./Responsive-Web-Design-Certification/Personal-Portfolio-Webpage/demo.png)  
+  ![''](./Responsive-Web-Design-Certification/Personal-Portfolio-Webpage/demo.png)
 
 # JavaScript Algorithms and Data Structures Projects
 
