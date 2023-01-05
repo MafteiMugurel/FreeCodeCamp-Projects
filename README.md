@@ -7,13 +7,13 @@ This includes:
 - Responsive Web Design Certification (300 hours)
   - Basic HTML and HTML5 ✔️
   - Basic CSS ✔️
-  - Applied Visual Design
-  - Applied Accessibility
-  - Responsive Web Design Principles
-  - CSS Flexbox
-  - CSS Grid
+  - Applied Visual Design ✔️
+  - Applied Accessibility ✔️
+  - Responsive Web Design Principles ✔️
+  - CSS Flexbox ✔️
+  - CSS Grid ✔️
 - JavaScript Algorithms and Data Structures Certification (300 hours)
-  - Basic JavaScript
+  - Basic JavaScript ✔️
   - ES6
   - Regular Expressions
   - Debugging
@@ -29,27 +29,6 @@ This includes:
   - React
   - Redux
   - React and Redux
-- Data Visualization Certification (300 hours)
-  - Data Visualization with D3
-  - JSON APIs and AJAX
-- APIs and Microservices Certification (300 hours)
-  - Managing Packages with NPM
-  - Basic Node and Express
-  - MongoDB and Mongoose
-- Quality Assurance Certification (300 hours)
-  - Quality Assurance and Testing with Chai
-  - Advanced Node and Express
-- Scientific Computing with Python Certification (300 hours)
-  - Python for Everybody
-- Data Analysis with Python Certification (300 hours)
-  - Data Analysis with Python
-  - Numpy
-- Information Security Certification (300 hours)
-  - Information Security with HelmetJS
-  - Python for Penetration Testing
-- Machine Learning with Python Certification (300 hours)
-  - Tensorflow
-  - How Neural Networks Work
 - Coding Interview Prep (Thousands of hours of challenges)
   - Algorithms
   - Data Structures
@@ -59,12 +38,10 @@ This includes:
 
 # Responsive Web Design Certification Projects
 
-![''](./certifications/Responsive-Web-Design-Certification.png)
-
 - Tribute page<br>
-  ![''](./Responsive-Web-Design-Certification/demo.png)
+  ![''](./Responsive-Web-Design-Certification/Tribute-Page/demo.png)
 - Technical Documentation<br>
-  ![''](./Responsive-Web-Design-Certification/demo-2.png)
+  ![''](./Responsive-Web-Design-Certification/Technical-Documentation/demo.png)
 - Survey Form<br>
   ![''](./Responsive-Web-Design-Certification/Survey-Form/demo.png)
 - Asus Product Landing Page<br>
@@ -77,8 +54,6 @@ This includes:
   ![''](./Responsive-Web-Design-Certification/Personal-Portfolio-Webpage/demo.png)
 
 # JavaScript Algorithms and Data Structures Projects
-
-![''](./certifications/JavaScript-Algorithms-and-Data-Structures-Certification.png)
 
 - Palindrome checker<br>
   ![''](./JavaScript-Algorithms-and-Data-Structures/palindrome-checker/screenshoot.png)
