@@ -1,0 +1,67 @@
+.education {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+
+  &-content {
+    display: flex;
+    flex-flow: row;
+    justify-content: space-evenly;
+    width: 100%;
+    padding-bottom: 2vh;
+
+    &-school {
+      display: flex;
+      flex-flow: column;
+      align-items: center;
+      justify-content: flex-start;
+
+      img {
+        height: 8vh;
+        border-radius: 50%;
+      }
+
+      &:first-child {
+        padding-right: 2vw;
+      }
+
+      &:last-child {
+        padding-left: 2vw;
+      }
+
+      &-text {
+        text-align: center;
+
+        div {
+          padding-top: 0.5vh;
+        }
+
+        div:first-child,
+        div:last-child {
+          color: var(--cream);
+          font-size: 1rem;
+        }
+
+        div:nth-child(2) {
+          color: var(--primary);
+          font-size: 1.4rem;
+        }
+
+        div:nth-child(3) {
+          color: var(--white);
+          font-size: 1.2rem;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .education-content {
+    flex-flow: column;
+    &-school {
+      padding: 1vh 0;
+    }
+  }
+}

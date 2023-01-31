@@ -1,0 +1,29 @@
+.nav-bar {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 6vh;
+  background-color: var(--black);
+
+  &-list {
+    align-items: center;
+  }
+
+  a:hover {
+    color: var(--burgundy);
+  }
+  a:nth-of-type(1n + 2) {
+    margin-left: 1vw;
+  }
+
+  &-list {
+    display: flex;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .nav-bar-list {
+    display: none;
+  }
+}

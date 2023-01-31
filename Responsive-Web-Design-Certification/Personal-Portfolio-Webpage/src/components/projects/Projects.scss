@@ -1,0 +1,18 @@
+.portofolio {
+  display: flex;
+  flex-flow: wrap;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--grey);
+
+  &-content {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+    width: 100%;
+  }
+
+  &-button {
+    padding: 2vh;
+  }
+}

@@ -1,0 +1,75 @@
+:root {
+  --primary: #ffb633;
+  --white: #ffffff;
+  --black: #2c2c2c;
+  --grey: #313131;
+  --burgundy: #e10032;
+  --cream: #f4e6d5;
+  --peach: #fcd8a2;
+}
+
+body {
+  margin: 0;
+  color: var(--cream);
+  background-color: var(--black);
+}
+
+.app-style {
+  padding: 0 15%;
+}
+
+a {
+  text-decoration: none;
+  color: var(--peach);
+}
+
+.title {
+  padding: 2vh 0;
+  color: var(--peach);
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.app-imput {
+  width: -webkit-fill-available;
+  border-radius: 4px;
+  padding: 5px 15px;
+  color: var(--primary);
+  background-color: var(--black);
+  border: 1px groove var(--primary);
+}
+
+.app-button {
+  width: fit-content;
+  border-radius: 4px;
+  padding: 5px 15px;
+  text-transform: uppercase;
+  color: var(--primary);
+  background-color: var(--grey);
+  border: 1px groove var(--primary);
+}
+
+.app-button:hover {
+  background-color: var(--black);
+  border-color: var(--peach);
+}
+
+.app-button:active {
+  border-color: var(--burgundy);
+}
+
+@media only screen and (max-width: 992px) {
+  .app-style {
+    padding: 0 6%;
+  }
+  .title {
+    font-size: 1.5rem;
+  }
+  .app-button {
+    font-size: 0.8rem;
+  }
+}
+
+.white-content {
+  background-color: var(--white);
+}

@@ -1,0 +1,42 @@
+.about {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--black);
+  min-height: 34vh;
+
+  .title {
+    white-space: nowrap;
+  }
+
+  &-description {
+    display: flex;
+    flex-flow: column;
+    padding-left: 10%;
+    padding-bottom: 2vh;
+
+    &-text {
+      font-size: 1.2rem;
+      line-height: 2rem;
+    }
+
+    &-buttons {
+      display: flex;
+      flex-flow: row;
+      justify-content: space-evenly;
+      padding-top: 4vh;
+    }
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .about {
+    flex-flow: column;
+
+    &-description-text {
+      line-height: 1.5rem;
+      font-size: 1rem;
+    }
+  }
+}
